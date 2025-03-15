@@ -6,7 +6,7 @@
 | Student name | Student ID |
 | --- | --- |
 | #NAME# | #ID# |
-| #NAME# | #ID# |
+| Sara Ebbing Hansen | S177136 |
 | #NAME# | #ID# |
 
 ***
